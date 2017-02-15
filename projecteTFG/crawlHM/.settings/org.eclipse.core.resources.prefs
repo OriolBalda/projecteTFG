@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//crawlHM/items.py=utf-8
+encoding//crawlHM/pipelines.py=utf-8
+encoding//crawlHM/settings.py=utf-8
+encoding//crawlHM/spiders/HMlinies.py=utf-8
+encoding//crawlHM/spiders/HMproductes.py=utf-8
